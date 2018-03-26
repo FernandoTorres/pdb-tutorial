@@ -1,3 +1,6 @@
+[digital ocean tutorial][https://www.digitalocean.com/community/tutorials/how-to-use-the-python-debugger]
+[cheat sheet][https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf]
+
 # `pdb` Tutorial
 
 The purpose of this tutorial is to teach you the basics of `pdb`, the **P**ython **D**e**B**ugger for [Python2](https://docs.python.org/2/library/pdb.html)
